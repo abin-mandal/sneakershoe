@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f07e50c7-09b1-46ed-ba66-1ba0d862af02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/file_server/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/photo_file/user-Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/js/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/c2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/cardpic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/client.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/logo-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/shoes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/up-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/up-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/up-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/pictures/user-Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/Avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/Jackfruit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/Kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/Plum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/coconut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/default-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/eaglewing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/google-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/lemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/pineapple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/veg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/wallpap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/file_server/what.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/photo_file/eaglewing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/photo_file/mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/photo_file/wallpap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/AnnnaBazarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/SneakoverseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/config/PasswordEncoderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/config/PasswordEncoderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/AdminPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/AdminPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/CardMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/CardMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/CheckoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/CheckoutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/EditProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/EditProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/StartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/ThymeLeafAdminPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/ThymeLeafAdminPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/ThymeLeafHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/ThymeLeafHomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/entity/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/entity/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/entity/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/entity/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/AdminPagePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/AdminPagePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/HomePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/HomePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/LoginPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/LoginPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/OrderListPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/OrderListPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/OrderPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/OrderPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/pojo/UserPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/pojo/UserPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/repo/AdminPageRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/repo/AdminPageRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/repo/HomeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/repo/HomeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/repo/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/repo/OrderRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/repo/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/repo/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/security/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/security/SpringSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/AdminPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/AdminPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/HomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/HomeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/impl/AdminPageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/impl/AdminPageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/impl/CustomUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/impl/CustomUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/impl/HomeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/impl/HomeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/java/com/example/annna_bazar/services/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/java/com/example/sneakoverse/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/one.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/one.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/pom.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/pom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/sort.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/sort.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Apricot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Blueberry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Jackfruit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Mandarin-orange.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Melon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/Plum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/coconut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/lemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/mango.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/pears.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/fruits/pineapple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/online.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/Capsicums.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/artichoke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/beetroot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/cabbage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/carrot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/cucumber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/drumstick.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/eggplant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/fennel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/garlic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/ginger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/image/vegetables/onion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/Delivery address.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/app-store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/arrow-up-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/btn-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/buying online.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/default-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/delivery-man.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/fast-food.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/google-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/grid-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/illus deliver.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/illus riding.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/location-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/online.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/order-food.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/sms-tracking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/splash with mobile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/veg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/static/photo/what.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/addcard/cardmenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/addcard/cardmenu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/addcard/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/addcard/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/adminpage/mainpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/adminpage/mainpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/homepage/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/homepage/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/profilepage/editprofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/profilepage/editprofile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/profilepage/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/profilepage/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/main/resources/templates/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/test/java/com/example/annna_bazar/AdminPageTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/test/java/com/example/sneakoverse/AdminPageTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/test/java/com/example/annna_bazar/AnnnaBazarApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/test/java/com/example/sneakoverse/SneakoverseApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shoes/src/test/java/com/example/annna_bazar/UserTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shoes/src/test/java/com/example/sneakoverse/UserTesting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Shoes" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VdzL0Wgf4R5vqVpcKgblp3m3MD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ajju Vai/Desktop/Sneakoverse",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "4c37335d996c5b1160bd8384060f46ff",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ajju Vai\Desktop\Sneakoverse\Shoes\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SneakoverseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Sneakoverse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sneakoverse.SneakoverseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07e50c7-09b1-46ed-ba66-1ba0d862af02" name="Changes" comment="" />
+      <created>1695180685542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695180685542</updated>
+      <workItem from="1695180686553" duration="2514000" />
+      <workItem from="1695186660127" duration="379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
